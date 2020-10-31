@@ -2,43 +2,63 @@
     
     box-sizing: border-box;
 }
-body{
-    padding: 15px;
-    margin: 10px;
-}
 
 .container{
-    display: table;
-    width: 100%;
+    display: flex;
+    align-items: baseline;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 50px;
 }
 
 .grid{
-    padding: px;
     height: 200px;
-    display: table-cell;
-    
+   
 }
 
 .card{
-    padding: 10px;
-    
+    padding: 10px;  
+    text-align: center;
 }
 
-img{
-    width: 50%;
-    height: auto;
-    padding-bottom: 30px;
-    
+
+img.grunt{
+    width: 130px;    
 }
+
 img.gulp{
-    width: 25%;
+    width: 70px;
+}
+
+img.git{
+    width: 150px;
+}
+
+img.npm{
+    width: 170px;
+    margin-bottom: 30px;
 }
 .card-body{
-
+    text-align: left;
+    padding: 20px;
 }
 a{
     text-decoration: none;
 }
 span{
-    font-weight: bold;
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+}
+span.np{
+    font-size: small;
+}
+h2{
+    margin-bottom: 10px;
+    color: rgb(120, 185, 142);
+    font-weight: 200;
+}
+
+p{
+    margin-top: 5px;
+    color: rgb(112, 112, 112);
 }
