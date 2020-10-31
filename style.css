@@ -6,13 +6,14 @@
 .container{
     display: flex;
     align-items: baseline;
+    flex-direction: column;
     padding-left: 30px;
     padding-right: 30px;
     padding-top: 50px;
 }
 
 .grid{
-    height: 200px;
+    height: auto;
    
 }
 
@@ -20,6 +21,7 @@
     padding: 10px;  
     text-align: center;
 }
+
 
 
 img.grunt{
