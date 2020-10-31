@@ -19,6 +19,7 @@
 .card{
     padding: 10px;  
     text-align: center;
+    width: 300px;
    
 }
 
@@ -38,20 +39,25 @@ img.npm{
     width: 170px;
     margin-bottom: 30px;
 }
+
 .card-body{
     text-align: left;
     padding: 20px;
+    font-family: 'Fira Sans', sans-serif;
 }
 a{
     text-decoration: none;
 }
+
 span{
-    font-weight: 900;
+    font-weight: 700;
+    font-size: large;
     font-family: 'Courier New', Courier, monospace;
 }
 span.np{
     font-size: small;
 }
+
 h2{
     margin-bottom: 10px;
     color: rgb(120, 185, 142);
@@ -61,6 +67,7 @@ h2{
 p{
     margin-top: 5px;
     color: rgb(112, 112, 112);
+    font-size: 15px;
 }
 
 @media screen and (max-width: 768px) {
