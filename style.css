@@ -57,7 +57,9 @@ span{
     font-family: 'Fira Mono', monospace;
 }
 span.np{
-    font-size: small;
+    font-size: 12px;
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
 }
 
 h2{
