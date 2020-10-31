@@ -24,7 +24,8 @@
 }
 
 img.grunt{
-    width: 130px;    
+    width: 130px; 
+    margin-bottom: 10px;   
 }
 
 img.gulp{
@@ -33,11 +34,12 @@ img.gulp{
 
 img.git{
     width: 150px;
+    margin-bottom: 15px;
 }
 
 img.npm{
     width: 170px;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
 }
 
 .card-body{
