@@ -1,28 +1,26 @@
 *{
-    
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
 }
 
 .container{
-    display: flex;
-    align-items: baseline;
-    flex-direction: column;
     padding-left: 30px;
     padding-right: 30px;
     padding-top: 50px;
 }
 
 .grid{
-    height: auto;
-   
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
 }
 
 .card{
     padding: 10px;  
     text-align: center;
+   
 }
-
-
 
 img.grunt{
     width: 130px;    
@@ -63,4 +61,11 @@ h2{
 p{
     margin-top: 5px;
     color: rgb(112, 112, 112);
+}
+
+@media screen and (max-width: 768px) {
+    .grid{
+        flex-direction: column;
+        align-items: center;
+    }
 }
