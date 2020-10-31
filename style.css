@@ -53,9 +53,8 @@ a{
 
 span{
     font-weight: 700;
-    font-size: large;
-    font-family: 'Courier New', Courier, monospace;
-    letter-spacing: 1px;
+    font-size: medium;
+    font-family: 'Fira Mono', monospace;
 }
 span.np{
     font-size: small;
