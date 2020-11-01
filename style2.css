@@ -5,7 +5,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    color: white;
+    color: rgba(255, 255, 255, 0.726);
     background-color: rgb(74, 145, 237);
     border-radius: 2px;
 }
@@ -13,7 +13,10 @@ table{
     border-collapse: collapse;
     width: 272px;
 }
-    
+
+th, tr{
+    text-align: left;
+}
 p.underline{
     width: 272px;
 }
@@ -24,7 +27,7 @@ p.underline{
 
 a{
     text-decoration: none;
-    color: white;
+    color: rgba(255, 255, 255, 0.726);
 }
 
 .usernum{
