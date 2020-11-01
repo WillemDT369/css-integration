@@ -23,6 +23,8 @@ table{
 
 th, tr{
     text-align: left;
+    font-size: 13px;
+    font-weight: normal;
 }
 p.underline{
     width: 272px;
@@ -43,10 +45,17 @@ a{
 
 .top{
     width: 272px;
+    height: 70px;
+}
+
+.users-now{
+    font-size: 50px;
+    margin-top: 0;
 }
 
 .mid-chart{
     width: 272px;
+    font-size: 13px;
 }
 
 .belly{
@@ -54,6 +63,16 @@ a{
 }
 .bottom{
     text-align: right;
-    font-size: small;
     width: 272px;
+}
+
+span{
+    font-family: 'Nanum Gothic', sans-serif;
+    font-weight: 600;
+    font-size: 12px;
+    
+}
+
+h3{
+    font-size: 14px;
 }
