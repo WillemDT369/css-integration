@@ -1,0 +1,19 @@
+.container{
+    width: 620px;
+    height: 500px;
+    align-items: center;
+}
+table{
+    border-collapse: collapse;
+}
+    
+
+
+.underline {
+    border-bottom: 1px solid;
+}
+
+.bottom{
+    border-top: 1px solid #000;
+    width: 50%;
+}
