@@ -63,7 +63,8 @@ a{
 }
 .bottom{
     text-align: right;
-    width: 272px;
+    width: 320px;
+    border-top: 1px solid;
 }
 
 span{
@@ -71,9 +72,13 @@ span{
     font-weight: 600;
     font-size: 12px;
     margin-left: 15px;
-    
+    margin-right: 20px;
 }
 
 h3{
     font-size: 14px;
+}
+
+img{
+    margin-top: 20px;
 }
