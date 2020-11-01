@@ -11,10 +11,11 @@
 }
 table{
     border-collapse: collapse;
+    width: 272px;
 }
     
 p.underline{
-    width: 245px;
+    width: 272px;
 }
 
 .underline {
@@ -28,4 +29,21 @@ a{
 
 .usernum{
     text-align: right;
+}
+
+.top{
+    width: 272px;
+}
+
+.mid-chart{
+    width: 272px;
+}
+
+.belly{
+    width: 272px;
+}
+.bottom{
+    text-align: right;
+    font-size: small;
+    width: 272px;
 }
