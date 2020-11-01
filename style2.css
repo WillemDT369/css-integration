@@ -1,19 +1,23 @@
 .container{
-    width: 620px;
-    height: 500px;
+    width: 320px;
+    height: auto;
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
     align-items: center;
+    color: white;
+    background-color: rgb(74, 145, 237);
+    border-radius: 2px;
 }
 table{
     border-collapse: collapse;
 }
     
-
+p.underline{
+    width: 245px;
+}
 
 .underline {
     border-bottom: 1px solid;
 }
 
-.bottom{
-    border-top: 1px solid #000;
-    width: 50%;
-}
