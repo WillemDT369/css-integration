@@ -47,8 +47,13 @@ h1{
   font-size: 16px;
   padding-top: 4px;
 }
+
 .ownerinfo{
   display: flex;
+}
+
+.info-bottom{
+  padding-top: 5px;
 }
 
 
