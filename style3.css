@@ -36,8 +36,13 @@
 }
 
 .info{
-  padding: 22px 19px 62px 19px;
+  padding: 22px 19px 58px 19px;
 }
+
+h1{
+  font-size: 20px;
+}
+
 .info p{
   font-size: 16px;
   padding-top: 4px;
@@ -46,6 +51,4 @@
   display: flex;
 }
 
-h1{
-  font-size: 20px;
-}
+
