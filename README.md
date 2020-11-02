@@ -4,6 +4,6 @@ This is an exercise in which all previous learned techniques are combined. It co
 ## How
 Both interfaces were made with HTML and CSS only.
 
-[first interfice](https://github.com/WillemDT369/css-integration/blob/main/index.html)
+[first interfice](https://willemdt369.github.io/css-integration/index.html)
 
-[second interface](https://github.com/WillemDT369/css-integration/blob/main/index2.html)
+[second interface](https://willemdt369.github.io/css-integration/index2.html)
