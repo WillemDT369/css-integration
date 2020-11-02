@@ -21,6 +21,7 @@
   margin: 3px;
   width: 488px;
   height: 258px;
+  display: flex
 }
 
 .image-left{
