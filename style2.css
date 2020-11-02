@@ -19,6 +19,7 @@ div.container:hover{
 table{
     border-collapse: collapse;
     width: 272px;
+    height: 174px;
 }
 
 th, tr{
@@ -28,6 +29,8 @@ th, tr{
 }
 p.underline{
     width: 272px;
+    margin-top: 47px;
+    padding-bottom: 4px;
 }
 
 .underline {
@@ -60,6 +63,7 @@ a{
 
 .belly{
     width: 272px;
+    
 }
 .bottom{
     text-align: right;
