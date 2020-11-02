@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-/* #mockup2{
+#mockup2{
     width: 496px;
     height: 265px;
     position: absolute;
@@ -15,7 +15,7 @@
     opacity: 0.5;
     z-index: 10;
     pointer-events: none;
-} */
+}
 
 .container{
   margin: 3px;
@@ -33,11 +33,14 @@
 .content-right{
   height: 258px;
   width: 289px;
+  font-family: 'Hind', sans-serif;
+  line-height: 1.2;
   
 }
 
 .info{
   padding: 22px 19px 58px 19px;
+  
 }
 
 h1{
