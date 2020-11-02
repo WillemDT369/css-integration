@@ -32,9 +32,20 @@
 .content-right{
   height: 258px;
   width: 288px;
-  padding: 18px;
+  
 }
 
+.info{
+  padding: 22px 19px 62px 19px;
+}
+.info p{
+  font-size: 16px;
+  padding-top: 4px;
+}
 .ownerinfo{
   display: flex;
+}
+
+h1{
+  font-size: 20px;
 }
