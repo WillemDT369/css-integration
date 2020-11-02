@@ -15,5 +15,15 @@
     opacity: 0.5;
     z-index: 10;
     pointer-events: none;
-  }
+}
 
+.container{
+  margin: 3px;
+  width: 488px;
+  height: 258px;
+}
+
+.image-left{
+  width: 200px;
+  height: 258px;
+}
