@@ -53,12 +53,17 @@ h1{
 }
 
 .info-bottom{
-  padding-top: 5px;
+  padding-top: 7px;
   padding-left: 4px;
+  font-size: 14px;
+}
+
+.ownername{
+
 }
 
 .extra-info{
-  font-size: 14px;
+  
 }
 
 .symbol{
