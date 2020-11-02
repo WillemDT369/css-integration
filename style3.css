@@ -35,4 +35,6 @@
   padding: 18px;
 }
 
-
+.ownerinfo{
+  display: flex;
+}
